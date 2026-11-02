@@ -1,0 +1,12 @@
+CODSOFT TASK 2: EXPLORATORY DATA ANALYSIS REPORT
+
+Records analyzed: 636
+Season with most matches: 2013 (76)
+Team with most wins: Mumbai Indians (92)
+Most common toss decision: field
+Most Player of the Match awards: CH Gayle (18)
+Venue with most matches: M Chinnaswamy Stadium (66)
+Toss winner also won the match in 51.34% of eligible records.
+
+Methods used: descriptive statistics, distribution plots, group summaries, correlation heatmap and IQR-based outlier detection.
+Limitation: conclusions apply only to the supplied dataset and its covered seasons.
